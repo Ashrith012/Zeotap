@@ -25,3 +25,12 @@ This system fetches real-time weather data using the OpenWeatherMap API and stor
 - Alerts based on temperature thresholds
 
 ### Folder Structure
+
+
+
+### Instructions for Use:
+- Replace any placeholders with actual content as necessary.
+- Feel free to add more details, such as specific usage examples or configuration instructions, based on your project's needs.
+
+Let me know if you need any modifications or additional sections!
+
