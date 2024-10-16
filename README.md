@@ -15,3 +15,13 @@ This application allows users to define and evaluate rules using an Abstract Syn
 - Error handling for invalid inputs
 
 ### Folder Structure
+
+
+
+## Application 2: Real-Time Data Processing System for Weather Monitoring
+This system fetches real-time weather data using the OpenWeatherMap API and stores it in an SQLite database. Key features include:
+- Data fetching every 5 minutes
+- Daily summaries with temperature aggregates
+- Alerts based on temperature thresholds
+
+### Folder Structure
